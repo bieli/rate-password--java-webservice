@@ -1,9 +1,9 @@
-rate-password--java-webservice
-==============================
+Rate password - Java webservice
+===============================
 
-[![Build Status](https://secure.travis-ci.org/cucumber/rate-password--java-webservice.png)](http://github.com/bieli/rate-password--java-webservice)
+[![Build Status](https://secure.travis-ci.org/bieli/rate-password--java-webservice.png)](http://travis-ci.org/bieli/rate-password--java-webservice)
 
-Simple rate password java webservice (using Jersey and Grizzly)
+Simple rating password Java webservice (using Java, Jersey and Grizzly)
 
 
 Technical solution

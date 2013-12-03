@@ -1,8 +1,9 @@
 rate-password--java-webservice
 ==============================
 
+[![Build Status](https://secure.travis-ci.org/cucumber/rate-password--java-webservice.png)](http://github.com/bieli/rate-password--java-webservice)
+
 Simple rate password java webservice (using Jersey and Grizzly)
-/www.google.com/accounts/RatePassword?Passwd=1111111111111111$@-**
 
 
 Technical solution

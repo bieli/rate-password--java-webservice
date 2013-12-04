@@ -26,3 +26,7 @@ mvn clean test
 Run service
 ---------
 mvn exec:java
+
+Call service with CURL
+---------
+$ curl -i http://localhost:8080/ratepassword

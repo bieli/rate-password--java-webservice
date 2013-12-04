@@ -3,6 +3,8 @@ Rate password - Java webservice
 
 [![Build Status](https://secure.travis-ci.org/bieli/rate-password--java-webservice.png)](http://travis-ci.org/bieli/rate-password--java-webservice)
 
+ [![Stories in Ready](https://badge.waffle.io/bieli/rate-password--java-webservice.png?label=ready)](http://waffle.io/bieli/rate-password--java-webservice) 
+
 Simple rating password Java webservice (using Java, Jersey and Grizzly)
 
 
